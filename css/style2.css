@@ -86,7 +86,7 @@ header ul li{
 }
 .banner_section{
   background: #B0050E;
-  background: linear-gradient(to left ,rgba(176, 5, 14, 0.6), rgba(176, 5, 14, 0.6)), url(../images/red-banner.jpg);
+  background: linear-gradient(to left ,rgba(176, 5, 14, 0.6), rgba(176, 5, 14, 0.6)), url(../Images/red-banner.jpg);
   padding:40px 0;
   /* margin-top: 80px; */
   background-repeat: no-repeat;
@@ -223,7 +223,7 @@ p{
   /* background-color: aliceblue; */
   padding-top: 25px !important;
   /* margin-bottom: 24px; */
-  /* background: linear-gradient(rgba(197, 220, 255, 0.9), rgba(197, 220, 255, 0.9)), url(./images/BG.jpg); */
+  /* background: linear-gradient(rgba(197, 220, 255, 0.9), rgba(197, 220, 255, 0.9)), url(./Images/BG.jpg); */
  }
 
 
@@ -262,7 +262,7 @@ p{
   top: -50%;
   width: 200%;
   height: 200%;
-  /* background-image: url("../images/dna-Strand.gif");
+  /* background-image: url("../Images/dna-Strand.gif");
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat; */
